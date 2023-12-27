@@ -1,3 +1,7 @@
 # odin-recipes
-A starter project to use/refresh basic html knowledge
-nothing here YET
+Straying away from the general assignment in a search for passion
+
+Here are the tales of misery from which hope is born
+
+Agony is one's path to creativity
+
